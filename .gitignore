@@ -1,6 +1,6 @@
 !.gitignore
 *.user
 *.qmlc
-/*/*/*_Qt-Debug
-/*/*/*_Qt-Profile
-/*/*/*_Qt-Release
+/*/*/build-*-Debug
+/*/*/build-*-Profile
+/*/*/build-*-Release
